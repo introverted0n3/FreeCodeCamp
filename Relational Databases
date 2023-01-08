@@ -1,4 +1,4 @@
 ##Ensure you are in the correct database
 psql --username=freecodecap --dbname=second_database
-## Show a list of databases
+## Show a list of tables
 /d
